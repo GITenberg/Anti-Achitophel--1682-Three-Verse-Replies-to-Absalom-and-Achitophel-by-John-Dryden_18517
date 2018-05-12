@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '8079'
     url: http://www.gutenberg.org/2009/agents/8079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18517#Anti-Achitophel--1682-Three-Verse-Replies-to-Absalom-and-Achitophel-by-John-Dryden
 gutenberg_issued: '2006-06-06'
 gutenberg_type: Text
 identifiers:
