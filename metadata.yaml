@@ -1,0 +1,42 @@
+_repo: Anti-Achitophel--1682-Three-Verse-Replies-to-Absalom-and-Achitophel-by-John-Dryden_18517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Settle, Elkanah
+    alias: Settle, E. (Elkanah)
+    birthdate: 1648
+    deathdate: 1724
+    gutenberg_agent_id: '8078'
+    url: http://www.gutenberg.org/2009/agents/8078
+    wikipedia: http://en.wikipedia.org/wiki/Elkanah_Settle
+  - agent_name: Pordage, Samuel
+    alias: Pordage, S. (Samuel)
+    birthdate: 1633
+    gutenberg_agent_id: '8084'
+    url: http://www.gutenberg.org/2009/agents/8084
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Pordage
+  editor:
+    agent_name: Jones, Harold Whitmore
+    gutenberg_agent_id: '8079'
+    url: http://www.gutenberg.org/2009/agents/8079
+description: ''
+gutenberg_issued: '2006-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dryden, John, 1631-1700. Absalom and Achitophel'
+- !lcc 'PR'
+tableOfContents: Absalom Senior by Elkanah Settle -- Poetical Reflections by Anonymous
+  -- Azaria and Hushai by Samuel Pordage
+title: 'Anti-Achitophel (1682)
+
+  Three Verse Replies to Absalom and Achitophel by John Dryden'
+url: http://www.gutenberg.org/ebooks/18517
